@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.jamiebalfour.scot/projects/clickit/LightningJS.png" width="300">
+</p>
+
 # lightningJS
 A HTML to AST parser.
 
